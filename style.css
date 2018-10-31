@@ -464,6 +464,7 @@ ul {
 }
 ul.social-icons {
     margin-top: 10px;
+    list_style_type: none;
 }
 .social-icons li {
     display: inline;
