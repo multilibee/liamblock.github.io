@@ -486,7 +486,7 @@ ul.social-icons {
 .fa-facebook:hover {
     background-color: #3d5b99;
 }
-.fa-twitter {
+.fa-instagram {
     padding:10px 12px;
     -o-transition:.5s;
     -ms-transition:.5s;
@@ -495,7 +495,7 @@ ul.social-icons {
     transition: .5s;
     background-color: #322f30;
 }
-.fa-twitter:hover {
+.fa-instagram:hover {
     background-color: #00aced;
 }
 
